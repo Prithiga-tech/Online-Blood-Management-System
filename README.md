@@ -4,18 +4,18 @@ A simple web-based application developed for the course Advanced Server Side Pro
 This project helps manage blood donor and receiver details efficiently.
 
 ## Features
-Donor Registration
-Blood Availability Check
-Request Blood
-Manage Donor Records
-Simple User Interface
+- Donor Registration
+- Blood Availability Check
+- Request Blood
+- Manage Donor Records
+- Simple User Interface
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-Java
-MySQL
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
 
 ## Purpose
 
